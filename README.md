@@ -1,2 +1,1 @@
-# static-site
-testing a static website
+# static-website-aws
